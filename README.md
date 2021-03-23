@@ -17,7 +17,7 @@ Project Organization
     │   ├── interim
     │   ├── processed
     │   └── raw
-    ├── docs
+    ├── docs --> add document files here!
     ├── notebooks
     ├── reports
     │   └── figures
